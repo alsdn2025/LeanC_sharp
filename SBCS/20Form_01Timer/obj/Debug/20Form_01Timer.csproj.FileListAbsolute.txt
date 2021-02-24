@@ -1,0 +1,9 @@
+D:\C#proj\SBCS\20Form_01Timer\bin\Debug\20Form_01Timer.exe.config
+D:\C#proj\SBCS\20Form_01Timer\bin\Debug\20Form_01Timer.exe
+D:\C#proj\SBCS\20Form_01Timer\bin\Debug\20Form_01Timer.pdb
+D:\C#proj\SBCS\20Form_01Timer\obj\Debug\_20Form_01Timer.Form1.resources
+D:\C#proj\SBCS\20Form_01Timer\obj\Debug\_20Form_01Timer.Properties.Resources.resources
+D:\C#proj\SBCS\20Form_01Timer\obj\Debug\20Form_01Timer.csproj.GenerateResource.Cache
+D:\C#proj\SBCS\20Form_01Timer\obj\Debug\20Form_01Timer.csproj.CoreCompileInputs.cache
+D:\C#proj\SBCS\20Form_01Timer\obj\Debug\20Form_01Timer.exe
+D:\C#proj\SBCS\20Form_01Timer\obj\Debug\20Form_01Timer.pdb

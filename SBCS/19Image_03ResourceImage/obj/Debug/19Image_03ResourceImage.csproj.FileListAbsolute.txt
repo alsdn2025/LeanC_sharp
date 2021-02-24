@@ -1,0 +1,9 @@
+D:\C#proj\SBCS\19Image_03ResourceImage\bin\Debug\19Image_03ResourceImage.exe.config
+D:\C#proj\SBCS\19Image_03ResourceImage\bin\Debug\19Image_03ResourceImage.exe
+D:\C#proj\SBCS\19Image_03ResourceImage\bin\Debug\19Image_03ResourceImage.pdb
+D:\C#proj\SBCS\19Image_03ResourceImage\obj\Debug\_19Image_03ResourceImage.Form1.resources
+D:\C#proj\SBCS\19Image_03ResourceImage\obj\Debug\_19Image_03ResourceImage.Properties.Resources.resources
+D:\C#proj\SBCS\19Image_03ResourceImage\obj\Debug\19Image_03ResourceImage.csproj.GenerateResource.Cache
+D:\C#proj\SBCS\19Image_03ResourceImage\obj\Debug\19Image_03ResourceImage.csproj.CoreCompileInputs.cache
+D:\C#proj\SBCS\19Image_03ResourceImage\obj\Debug\19Image_03ResourceImage.exe
+D:\C#proj\SBCS\19Image_03ResourceImage\obj\Debug\19Image_03ResourceImage.pdb

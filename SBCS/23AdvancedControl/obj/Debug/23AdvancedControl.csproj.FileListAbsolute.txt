@@ -1,0 +1,10 @@
+D:\C#proj\SBCS\23AdvancedControl\bin\Debug\23AdvancedControl.exe.config
+D:\C#proj\SBCS\23AdvancedControl\bin\Debug\23AdvancedControl.exe
+D:\C#proj\SBCS\23AdvancedControl\bin\Debug\23AdvancedControl.pdb
+D:\C#proj\SBCS\23AdvancedControl\obj\Debug\23AdvancedControl.csprojResolveAssemblyReference.cache
+D:\C#proj\SBCS\23AdvancedControl\obj\Debug\_23AdvancedControl.Form1.resources
+D:\C#proj\SBCS\23AdvancedControl\obj\Debug\_23AdvancedControl.Properties.Resources.resources
+D:\C#proj\SBCS\23AdvancedControl\obj\Debug\23AdvancedControl.csproj.GenerateResource.Cache
+D:\C#proj\SBCS\23AdvancedControl\obj\Debug\23AdvancedControl.csproj.CoreCompileInputs.cache
+D:\C#proj\SBCS\23AdvancedControl\obj\Debug\23AdvancedControl.exe
+D:\C#proj\SBCS\23AdvancedControl\obj\Debug\23AdvancedControl.pdb

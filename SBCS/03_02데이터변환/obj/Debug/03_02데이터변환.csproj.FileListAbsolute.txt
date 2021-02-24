@@ -1,0 +1,7 @@
+D:\C#proj\SBCS\03_02데이터변환\bin\Debug\03_02데이터변환.exe.config
+D:\C#proj\SBCS\03_02데이터변환\bin\Debug\03_02데이터변환.exe
+D:\C#proj\SBCS\03_02데이터변환\bin\Debug\03_02데이터변환.pdb
+D:\C#proj\SBCS\03_02데이터변환\obj\Debug\03_02데이터변환.csproj.CoreCompileInputs.cache
+D:\C#proj\SBCS\03_02데이터변환\obj\Debug\03_02데이터변환.exe
+D:\C#proj\SBCS\03_02데이터변환\obj\Debug\03_02데이터변환.pdb
+D:\C#proj\SBCS\03_02데이터변환\obj\Debug\03_02데이터변환.csprojAssemblyReference.cache

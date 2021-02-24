@@ -1,0 +1,2 @@
+D:\C#proj\UnityCS\00_using\obj\Debug\00_using.csprojResolveAssemblyReference.cache
+D:\C#proj\UnityCS\00_using\obj\Debug\00_using.csproj.CoreCompileInputs.cache

@@ -1,0 +1,7 @@
+D:\C#proj\UnityCS\03CodeStartAndReading\bin\Debug\03CodeStartAndReading.exe.config
+D:\C#proj\UnityCS\03CodeStartAndReading\bin\Debug\03CodeStartAndReading.exe
+D:\C#proj\UnityCS\03CodeStartAndReading\bin\Debug\03CodeStartAndReading.pdb
+D:\C#proj\UnityCS\03CodeStartAndReading\obj\Debug\03CodeStartAndReading.csproj.CoreCompileInputs.cache
+D:\C#proj\UnityCS\03CodeStartAndReading\obj\Debug\03CodeStartAndReading.exe
+D:\C#proj\UnityCS\03CodeStartAndReading\obj\Debug\03CodeStartAndReading.pdb
+D:\C#proj\UnityCS\03CodeStartAndReading\obj\Debug\03CodeStartAndReading.csprojResolveAssemblyReference.cache

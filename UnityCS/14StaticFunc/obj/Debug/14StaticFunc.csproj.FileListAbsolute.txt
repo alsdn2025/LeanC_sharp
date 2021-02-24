@@ -1,0 +1,6 @@
+D:\C#proj\UnityCS\14StaticFunc\bin\Debug\14StaticFunc.exe.config
+D:\C#proj\UnityCS\14StaticFunc\bin\Debug\14StaticFunc.exe
+D:\C#proj\UnityCS\14StaticFunc\bin\Debug\14StaticFunc.pdb
+D:\C#proj\UnityCS\14StaticFunc\obj\Debug\14StaticFunc.csproj.CoreCompileInputs.cache
+D:\C#proj\UnityCS\14StaticFunc\obj\Debug\14StaticFunc.exe
+D:\C#proj\UnityCS\14StaticFunc\obj\Debug\14StaticFunc.pdb

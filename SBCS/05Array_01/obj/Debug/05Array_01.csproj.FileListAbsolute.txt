@@ -1,0 +1,6 @@
+D:\C#proj\SBCS\05Array_01\bin\Debug\05Array_01.exe.config
+D:\C#proj\SBCS\05Array_01\bin\Debug\05Array_01.exe
+D:\C#proj\SBCS\05Array_01\bin\Debug\05Array_01.pdb
+D:\C#proj\SBCS\05Array_01\obj\Debug\05Array_01.csproj.CoreCompileInputs.cache
+D:\C#proj\SBCS\05Array_01\obj\Debug\05Array_01.exe
+D:\C#proj\SBCS\05Array_01\obj\Debug\05Array_01.pdb

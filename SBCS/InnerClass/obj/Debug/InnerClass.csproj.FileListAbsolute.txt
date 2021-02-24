@@ -1,0 +1,7 @@
+D:\C#proj\SBCS\InnerClass\obj\Debug\InnerClass.csprojAssemblyReference.cache
+D:\C#proj\SBCS\InnerClass\obj\Debug\InnerClass.csproj.CoreCompileInputs.cache
+D:\C#proj\SBCS\InnerClass\bin\Debug\InnerClass.exe.config
+D:\C#proj\SBCS\InnerClass\bin\Debug\InnerClass.exe
+D:\C#proj\SBCS\InnerClass\bin\Debug\InnerClass.pdb
+D:\C#proj\SBCS\InnerClass\obj\Debug\InnerClass.exe
+D:\C#proj\SBCS\InnerClass\obj\Debug\InnerClass.pdb

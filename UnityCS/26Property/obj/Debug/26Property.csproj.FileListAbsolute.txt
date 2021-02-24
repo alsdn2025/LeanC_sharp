@@ -1,0 +1,7 @@
+D:\C#proj\UnityCS\26Property\bin\Debug\26Property.exe.config
+D:\C#proj\UnityCS\26Property\bin\Debug\26Property.exe
+D:\C#proj\UnityCS\26Property\bin\Debug\26Property.pdb
+D:\C#proj\UnityCS\26Property\obj\Debug\26Property.csprojResolveAssemblyReference.cache
+D:\C#proj\UnityCS\26Property\obj\Debug\26Property.csproj.CoreCompileInputs.cache
+D:\C#proj\UnityCS\26Property\obj\Debug\26Property.exe
+D:\C#proj\UnityCS\26Property\obj\Debug\26Property.pdb

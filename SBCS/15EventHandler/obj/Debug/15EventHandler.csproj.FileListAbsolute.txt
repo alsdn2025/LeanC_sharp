@@ -1,0 +1,10 @@
+D:\C#proj\SBCS\15EventHandler\bin\Debug\15EventHandler.exe.config
+D:\C#proj\SBCS\15EventHandler\bin\Debug\15EventHandler.exe
+D:\C#proj\SBCS\15EventHandler\bin\Debug\15EventHandler.pdb
+D:\C#proj\SBCS\15EventHandler\obj\Debug\_15EventHandler.Form1.resources
+D:\C#proj\SBCS\15EventHandler\obj\Debug\_15EventHandler.Properties.Resources.resources
+D:\C#proj\SBCS\15EventHandler\obj\Debug\15EventHandler.csproj.GenerateResource.Cache
+D:\C#proj\SBCS\15EventHandler\obj\Debug\15EventHandler.csproj.CoreCompileInputs.cache
+D:\C#proj\SBCS\15EventHandler\obj\Debug\15EventHandler.exe
+D:\C#proj\SBCS\15EventHandler\obj\Debug\15EventHandler.pdb
+D:\C#proj\SBCS\15EventHandler\obj\Debug\15EventHandler.csprojAssemblyReference.cache

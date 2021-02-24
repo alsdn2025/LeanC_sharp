@@ -1,0 +1,9 @@
+D:\C#proj\SBCS\22Control_04PictureBox\bin\Debug\22Control_04PictureBox.exe.config
+D:\C#proj\SBCS\22Control_04PictureBox\bin\Debug\22Control_04PictureBox.exe
+D:\C#proj\SBCS\22Control_04PictureBox\bin\Debug\22Control_04PictureBox.pdb
+D:\C#proj\SBCS\22Control_04PictureBox\obj\Debug\_22Control_04PictureBox.Form1.resources
+D:\C#proj\SBCS\22Control_04PictureBox\obj\Debug\_22Control_04PictureBox.Properties.Resources.resources
+D:\C#proj\SBCS\22Control_04PictureBox\obj\Debug\22Control_04PictureBox.csproj.GenerateResource.Cache
+D:\C#proj\SBCS\22Control_04PictureBox\obj\Debug\22Control_04PictureBox.csproj.CoreCompileInputs.cache
+D:\C#proj\SBCS\22Control_04PictureBox\obj\Debug\22Control_04PictureBox.exe
+D:\C#proj\SBCS\22Control_04PictureBox\obj\Debug\22Control_04PictureBox.pdb

@@ -1,0 +1,7 @@
+D:\C#proj\SBCS\03_04사용자지정형\bin\Debug\03_04사용자지정형.exe.config
+D:\C#proj\SBCS\03_04사용자지정형\bin\Debug\03_04사용자지정형.exe
+D:\C#proj\SBCS\03_04사용자지정형\bin\Debug\03_04사용자지정형.pdb
+D:\C#proj\SBCS\03_04사용자지정형\obj\Debug\03_04사용자지정형.csprojResolveAssemblyReference.cache
+D:\C#proj\SBCS\03_04사용자지정형\obj\Debug\03_04사용자지정형.csproj.CoreCompileInputs.cache
+D:\C#proj\SBCS\03_04사용자지정형\obj\Debug\03_04사용자지정형.exe
+D:\C#proj\SBCS\03_04사용자지정형\obj\Debug\03_04사용자지정형.pdb

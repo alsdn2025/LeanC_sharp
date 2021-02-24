@@ -1,0 +1,9 @@
+D:\C#proj\SBCS\18GDI+01_Pen_Color\bin\Debug\18GDI+01_Pen_Color.exe.config
+D:\C#proj\SBCS\18GDI+01_Pen_Color\bin\Debug\18GDI+01_Pen_Color.exe
+D:\C#proj\SBCS\18GDI+01_Pen_Color\bin\Debug\18GDI+01_Pen_Color.pdb
+D:\C#proj\SBCS\18GDI+01_Pen_Color\obj\Debug\_18GDI_01_Pen_Color.Form1.resources
+D:\C#proj\SBCS\18GDI+01_Pen_Color\obj\Debug\_18GDI_01_Pen_Color.Properties.Resources.resources
+D:\C#proj\SBCS\18GDI+01_Pen_Color\obj\Debug\18GDI+01_Pen_Color.csproj.GenerateResource.Cache
+D:\C#proj\SBCS\18GDI+01_Pen_Color\obj\Debug\18GDI+01_Pen_Color.csproj.CoreCompileInputs.cache
+D:\C#proj\SBCS\18GDI+01_Pen_Color\obj\Debug\18GDI+01_Pen_Color.exe
+D:\C#proj\SBCS\18GDI+01_Pen_Color\obj\Debug\18GDI+01_Pen_Color.pdb

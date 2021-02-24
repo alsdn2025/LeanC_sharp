@@ -1,0 +1,9 @@
+D:\C#proj\SBCS\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\C#proj\SBCS\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\C#proj\SBCS\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\C#proj\SBCS\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\C#proj\SBCS\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\C#proj\SBCS\WindowsFormsApp1\obj\Debug\22Control_03ScrollBar.csproj.GenerateResource.cache
+D:\C#proj\SBCS\WindowsFormsApp1\obj\Debug\22Control_03ScrollBar.csproj.CoreCompileInputs.cache
+D:\C#proj\SBCS\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\C#proj\SBCS\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb

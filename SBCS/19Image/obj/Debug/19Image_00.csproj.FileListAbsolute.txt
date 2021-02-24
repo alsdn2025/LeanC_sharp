@@ -1,0 +1,9 @@
+D:\C#proj\SBCS\19Image\bin\Debug\19Image.exe.config
+D:\C#proj\SBCS\19Image\bin\Debug\19Image.exe
+D:\C#proj\SBCS\19Image\bin\Debug\19Image.pdb
+D:\C#proj\SBCS\19Image\obj\Debug\_19Image.Form1.resources
+D:\C#proj\SBCS\19Image\obj\Debug\_19Image.Properties.Resources.resources
+D:\C#proj\SBCS\19Image\obj\Debug\19Image_00.csproj.GenerateResource.Cache
+D:\C#proj\SBCS\19Image\obj\Debug\19Image_00.csproj.CoreCompileInputs.cache
+D:\C#proj\SBCS\19Image\obj\Debug\19Image.exe
+D:\C#proj\SBCS\19Image\obj\Debug\19Image.pdb

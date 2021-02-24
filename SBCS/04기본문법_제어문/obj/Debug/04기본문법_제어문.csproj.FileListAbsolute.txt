@@ -1,0 +1,6 @@
+D:\C#proj\SBCS\04기본문법_제어문\bin\Debug\04기본문법_제어문.exe.config
+D:\C#proj\SBCS\04기본문법_제어문\bin\Debug\04기본문법_제어문.exe
+D:\C#proj\SBCS\04기본문법_제어문\bin\Debug\04기본문법_제어문.pdb
+D:\C#proj\SBCS\04기본문법_제어문\obj\Debug\04기본문법_제어문.csproj.CoreCompileInputs.cache
+D:\C#proj\SBCS\04기본문법_제어문\obj\Debug\04기본문법_제어문.exe
+D:\C#proj\SBCS\04기본문법_제어문\obj\Debug\04기본문법_제어문.pdb

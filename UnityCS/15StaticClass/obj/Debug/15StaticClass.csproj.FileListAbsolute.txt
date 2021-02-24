@@ -1,0 +1,6 @@
+D:\C#proj\UnityCS\15StaticClass\obj\Debug\15StaticClass.csproj.CoreCompileInputs.cache
+D:\C#proj\UnityCS\15StaticClass\bin\Debug\15StaticClass.exe.config
+D:\C#proj\UnityCS\15StaticClass\bin\Debug\15StaticClass.exe
+D:\C#proj\UnityCS\15StaticClass\bin\Debug\15StaticClass.pdb
+D:\C#proj\UnityCS\15StaticClass\obj\Debug\15StaticClass.exe
+D:\C#proj\UnityCS\15StaticClass\obj\Debug\15StaticClass.pdb

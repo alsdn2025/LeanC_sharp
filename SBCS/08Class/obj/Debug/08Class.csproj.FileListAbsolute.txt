@@ -1,0 +1,6 @@
+D:\C#proj\SBCS\08Class\bin\Debug\08Class.exe.config
+D:\C#proj\SBCS\08Class\bin\Debug\08Class.exe
+D:\C#proj\SBCS\08Class\bin\Debug\08Class.pdb
+D:\C#proj\SBCS\08Class\obj\Debug\08Class.csproj.CoreCompileInputs.cache
+D:\C#proj\SBCS\08Class\obj\Debug\08Class.exe
+D:\C#proj\SBCS\08Class\obj\Debug\08Class.pdb

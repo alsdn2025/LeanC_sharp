@@ -1,0 +1,7 @@
+D:\C#proj\SBCS\06파일입출력_데이터분리\bin\Debug\06파일입출력_데이터분리.exe.config
+D:\C#proj\SBCS\06파일입출력_데이터분리\bin\Debug\06파일입출력_데이터분리.exe
+D:\C#proj\SBCS\06파일입출력_데이터분리\bin\Debug\06파일입출력_데이터분리.pdb
+D:\C#proj\SBCS\06파일입출력_데이터분리\obj\Debug\06파일입출력_데이터분리.csproj.CoreCompileInputs.cache
+D:\C#proj\SBCS\06파일입출력_데이터분리\obj\Debug\06파일입출력_데이터분리.exe
+D:\C#proj\SBCS\06파일입출력_데이터분리\obj\Debug\06파일입출력_데이터분리.pdb
+D:\C#proj\SBCS\06파일입출력_데이터분리\obj\Debug\06파일입출력_데이터분리.csprojResolveAssemblyReference.cache

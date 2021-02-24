@@ -1,0 +1,9 @@
+D:\C#proj\SBCS\17Mause\bin\Debug\17Mause.exe.config
+D:\C#proj\SBCS\17Mause\bin\Debug\17Mause.exe
+D:\C#proj\SBCS\17Mause\bin\Debug\17Mause.pdb
+D:\C#proj\SBCS\17Mause\obj\Debug\_17Mause.Form1.resources
+D:\C#proj\SBCS\17Mause\obj\Debug\_17Mause.Properties.Resources.resources
+D:\C#proj\SBCS\17Mause\obj\Debug\17Mouse00클릭.csproj.GenerateResource.Cache
+D:\C#proj\SBCS\17Mause\obj\Debug\17Mouse00클릭.csproj.CoreCompileInputs.cache
+D:\C#proj\SBCS\17Mause\obj\Debug\17Mause.exe
+D:\C#proj\SBCS\17Mause\obj\Debug\17Mause.pdb

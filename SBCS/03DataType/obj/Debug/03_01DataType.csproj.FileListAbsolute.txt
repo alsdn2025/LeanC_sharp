@@ -1,0 +1,7 @@
+D:\C#proj\SBCS\03DataType\bin\Debug\03DataType.exe.config
+D:\C#proj\SBCS\03DataType\bin\Debug\03DataType.exe
+D:\C#proj\SBCS\03DataType\bin\Debug\03DataType.pdb
+D:\C#proj\SBCS\03DataType\obj\Debug\03_01DataType.csproj.CoreCompileInputs.cache
+D:\C#proj\SBCS\03DataType\obj\Debug\03DataType.exe
+D:\C#proj\SBCS\03DataType\obj\Debug\03DataType.pdb
+D:\C#proj\SBCS\03DataType\obj\Debug\03_01DataType.csprojAssemblyReference.cache

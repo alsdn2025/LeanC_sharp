@@ -1,0 +1,7 @@
+D:\C#proj\UnityCS\25String01\bin\Debug\25String01.exe.config
+D:\C#proj\UnityCS\25String01\bin\Debug\25String01.exe
+D:\C#proj\UnityCS\25String01\bin\Debug\25String01.pdb
+D:\C#proj\UnityCS\25String01\obj\Debug\25String01.csprojResolveAssemblyReference.cache
+D:\C#proj\UnityCS\25String01\obj\Debug\25String01.csproj.CoreCompileInputs.cache
+D:\C#proj\UnityCS\25String01\obj\Debug\25String01.exe
+D:\C#proj\UnityCS\25String01\obj\Debug\25String01.pdb

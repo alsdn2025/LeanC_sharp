@@ -1,0 +1,9 @@
+D:\C#proj\SBCS\21Menu\bin\Debug\21Menu.exe.config
+D:\C#proj\SBCS\21Menu\bin\Debug\21Menu.exe
+D:\C#proj\SBCS\21Menu\bin\Debug\21Menu.pdb
+D:\C#proj\SBCS\21Menu\obj\Debug\_21Menu.Form1.resources
+D:\C#proj\SBCS\21Menu\obj\Debug\_21Menu.Properties.Resources.resources
+D:\C#proj\SBCS\21Menu\obj\Debug\21Menu.csproj.GenerateResource.Cache
+D:\C#proj\SBCS\21Menu\obj\Debug\21Menu.csproj.CoreCompileInputs.cache
+D:\C#proj\SBCS\21Menu\obj\Debug\21Menu.exe
+D:\C#proj\SBCS\21Menu\obj\Debug\21Menu.pdb

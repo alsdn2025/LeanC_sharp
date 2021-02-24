@@ -1,0 +1,6 @@
+D:\C#proj\SBCS\03_03표준입력\bin\Debug\03_03표준입력.exe.config
+D:\C#proj\SBCS\03_03표준입력\bin\Debug\03_03표준입력.exe
+D:\C#proj\SBCS\03_03표준입력\bin\Debug\03_03표준입력.pdb
+D:\C#proj\SBCS\03_03표준입력\obj\Debug\03_03표준입력.csproj.CoreCompileInputs.cache
+D:\C#proj\SBCS\03_03표준입력\obj\Debug\03_03표준입력.exe
+D:\C#proj\SBCS\03_03표준입력\obj\Debug\03_03표준입력.pdb

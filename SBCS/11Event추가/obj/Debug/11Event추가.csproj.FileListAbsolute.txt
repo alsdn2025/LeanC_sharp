@@ -1,0 +1,6 @@
+D:\C#proj\SBCS\11Event추가\bin\Debug\11Event추가.exe.config
+D:\C#proj\SBCS\11Event추가\bin\Debug\11Event추가.exe
+D:\C#proj\SBCS\11Event추가\bin\Debug\11Event추가.pdb
+D:\C#proj\SBCS\11Event추가\obj\Debug\11Event추가.csproj.CoreCompileInputs.cache
+D:\C#proj\SBCS\11Event추가\obj\Debug\11Event추가.exe
+D:\C#proj\SBCS\11Event추가\obj\Debug\11Event추가.pdb

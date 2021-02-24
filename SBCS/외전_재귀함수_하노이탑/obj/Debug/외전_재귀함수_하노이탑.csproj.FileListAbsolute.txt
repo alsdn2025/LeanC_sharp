@@ -1,0 +1,6 @@
+D:\C#proj\SBCS\외전_재귀함수_하노이탑\bin\Debug\외전_재귀함수_하노이탑.exe.config
+D:\C#proj\SBCS\외전_재귀함수_하노이탑\bin\Debug\외전_재귀함수_하노이탑.exe
+D:\C#proj\SBCS\외전_재귀함수_하노이탑\bin\Debug\외전_재귀함수_하노이탑.pdb
+D:\C#proj\SBCS\외전_재귀함수_하노이탑\obj\Debug\외전_재귀함수_하노이탑.csproj.CoreCompileInputs.cache
+D:\C#proj\SBCS\외전_재귀함수_하노이탑\obj\Debug\외전_재귀함수_하노이탑.exe
+D:\C#proj\SBCS\외전_재귀함수_하노이탑\obj\Debug\외전_재귀함수_하노이탑.pdb

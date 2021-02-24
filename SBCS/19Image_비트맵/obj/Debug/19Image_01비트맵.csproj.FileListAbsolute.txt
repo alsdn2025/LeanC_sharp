@@ -1,0 +1,10 @@
+D:\C#proj\SBCS\19Image_비트맵\bin\Debug\19Image_비트맵.exe.config
+D:\C#proj\SBCS\19Image_비트맵\bin\Debug\19Image_비트맵.exe
+D:\C#proj\SBCS\19Image_비트맵\bin\Debug\19Image_비트맵.pdb
+D:\C#proj\SBCS\19Image_비트맵\obj\Debug\_19Image_비트맵.Form1.resources
+D:\C#proj\SBCS\19Image_비트맵\obj\Debug\_19Image_비트맵.Properties.Resources.resources
+D:\C#proj\SBCS\19Image_비트맵\obj\Debug\19Image_01비트맵.csproj.GenerateResource.Cache
+D:\C#proj\SBCS\19Image_비트맵\obj\Debug\19Image_01비트맵.csproj.CoreCompileInputs.cache
+D:\C#proj\SBCS\19Image_비트맵\obj\Debug\19Image_비트맵.exe
+D:\C#proj\SBCS\19Image_비트맵\obj\Debug\19Image_비트맵.pdb
+D:\C#proj\SBCS\19Image_비트맵\obj\Debug\19Image_01비트맵.csprojAssemblyReference.cache

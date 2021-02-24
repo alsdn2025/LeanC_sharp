@@ -1,0 +1,4 @@
+Adobe Genuine Helper.exe
+AdobeGCClient.exe
+adobe_caps.dll
+test.txt 

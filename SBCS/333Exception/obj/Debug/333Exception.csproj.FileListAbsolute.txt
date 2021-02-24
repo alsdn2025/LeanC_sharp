@@ -1,0 +1,7 @@
+D:\C#proj\SBCS\333Exception\bin\Debug\333Exception.exe.config
+D:\C#proj\SBCS\333Exception\bin\Debug\333Exception.exe
+D:\C#proj\SBCS\333Exception\bin\Debug\333Exception.pdb
+D:\C#proj\SBCS\333Exception\obj\Debug\333Exception.csprojAssemblyReference.cache
+D:\C#proj\SBCS\333Exception\obj\Debug\333Exception.csproj.CoreCompileInputs.cache
+D:\C#proj\SBCS\333Exception\obj\Debug\333Exception.exe
+D:\C#proj\SBCS\333Exception\obj\Debug\333Exception.pdb

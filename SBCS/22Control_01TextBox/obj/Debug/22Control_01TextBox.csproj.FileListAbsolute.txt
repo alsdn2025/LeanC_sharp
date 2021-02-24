@@ -1,0 +1,9 @@
+D:\C#proj\SBCS\22Control_01TextBox\bin\Debug\22Control_01TextBox.exe.config
+D:\C#proj\SBCS\22Control_01TextBox\bin\Debug\22Control_01TextBox.exe
+D:\C#proj\SBCS\22Control_01TextBox\bin\Debug\22Control_01TextBox.pdb
+D:\C#proj\SBCS\22Control_01TextBox\obj\Debug\_22Control_01TextBox.Form1.resources
+D:\C#proj\SBCS\22Control_01TextBox\obj\Debug\_22Control_01TextBox.Properties.Resources.resources
+D:\C#proj\SBCS\22Control_01TextBox\obj\Debug\22Control_01TextBox.csproj.GenerateResource.Cache
+D:\C#proj\SBCS\22Control_01TextBox\obj\Debug\22Control_01TextBox.csproj.CoreCompileInputs.cache
+D:\C#proj\SBCS\22Control_01TextBox\obj\Debug\22Control_01TextBox.exe
+D:\C#proj\SBCS\22Control_01TextBox\obj\Debug\22Control_01TextBox.pdb

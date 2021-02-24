@@ -1,0 +1,6 @@
+D:\C#proj\SBCS\실험장\bin\Debug\실험장.exe.config
+D:\C#proj\SBCS\실험장\bin\Debug\실험장.exe
+D:\C#proj\SBCS\실험장\bin\Debug\실험장.pdb
+D:\C#proj\SBCS\실험장\obj\Debug\12Override_추가공부.csproj.CoreCompileInputs.cache
+D:\C#proj\SBCS\실험장\obj\Debug\실험장.exe
+D:\C#proj\SBCS\실험장\obj\Debug\실험장.pdb

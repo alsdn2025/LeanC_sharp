@@ -1,0 +1,6 @@
+D:\C#proj\UnityCS\06LocalVar\bin\Debug\06LocalVar.exe.config
+D:\C#proj\UnityCS\06LocalVar\bin\Debug\06LocalVar.exe
+D:\C#proj\UnityCS\06LocalVar\bin\Debug\06LocalVar.pdb
+D:\C#proj\UnityCS\06LocalVar\obj\Debug\06LocalVar.csproj.CoreCompileInputs.cache
+D:\C#proj\UnityCS\06LocalVar\obj\Debug\06LocalVar.exe
+D:\C#proj\UnityCS\06LocalVar\obj\Debug\06LocalVar.pdb

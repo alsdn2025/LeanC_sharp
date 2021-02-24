@@ -1,0 +1,7 @@
+D:\C#proj\SBCS\11Deligate_Event\bin\Debug\11Deligate_Event.exe.config
+D:\C#proj\SBCS\11Deligate_Event\bin\Debug\11Deligate_Event.exe
+D:\C#proj\SBCS\11Deligate_Event\bin\Debug\11Deligate_Event.pdb
+D:\C#proj\SBCS\11Deligate_Event\obj\Debug\11Deligate_Event.csprojResolveAssemblyReference.cache
+D:\C#proj\SBCS\11Deligate_Event\obj\Debug\11Deligate_Event.csproj.CoreCompileInputs.cache
+D:\C#proj\SBCS\11Deligate_Event\obj\Debug\11Deligate_Event.exe
+D:\C#proj\SBCS\11Deligate_Event\obj\Debug\11Deligate_Event.pdb

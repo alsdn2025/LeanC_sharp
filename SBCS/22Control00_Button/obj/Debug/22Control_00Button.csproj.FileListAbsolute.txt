@@ -1,0 +1,9 @@
+D:\C#proj\SBCS\22Control00_Button\bin\Debug\22Control00_Button.exe.config
+D:\C#proj\SBCS\22Control00_Button\bin\Debug\22Control00_Button.exe
+D:\C#proj\SBCS\22Control00_Button\bin\Debug\22Control00_Button.pdb
+D:\C#proj\SBCS\22Control00_Button\obj\Debug\_22Control00_Button.Form1.resources
+D:\C#proj\SBCS\22Control00_Button\obj\Debug\_22Control00_Button.Properties.Resources.resources
+D:\C#proj\SBCS\22Control00_Button\obj\Debug\22Control_00Button.csproj.GenerateResource.cache
+D:\C#proj\SBCS\22Control00_Button\obj\Debug\22Control_00Button.csproj.CoreCompileInputs.cache
+D:\C#proj\SBCS\22Control00_Button\obj\Debug\22Control00_Button.exe
+D:\C#proj\SBCS\22Control00_Button\obj\Debug\22Control00_Button.pdb

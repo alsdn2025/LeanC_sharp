@@ -1,0 +1,6 @@
+D:\C#proj\SBCS\06파일입출력\bin\Debug\06파일입출력.exe.config
+D:\C#proj\SBCS\06파일입출력\bin\Debug\06파일입출력.exe
+D:\C#proj\SBCS\06파일입출력\bin\Debug\06파일입출력.pdb
+D:\C#proj\SBCS\06파일입출력\obj\Debug\06파일입출력.csproj.CoreCompileInputs.cache
+D:\C#proj\SBCS\06파일입출력\obj\Debug\06파일입출력.exe
+D:\C#proj\SBCS\06파일입출력\obj\Debug\06파일입출력.pdb

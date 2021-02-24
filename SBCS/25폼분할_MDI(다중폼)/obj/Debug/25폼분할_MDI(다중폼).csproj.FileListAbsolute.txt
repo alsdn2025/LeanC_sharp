@@ -1,0 +1,10 @@
+D:\C#proj\SBCS\25폼분할_MDI(다중폼)\bin\Debug\25폼분할_MDI(다중폼).exe.config
+D:\C#proj\SBCS\25폼분할_MDI(다중폼)\bin\Debug\25폼분할_MDI(다중폼).exe
+D:\C#proj\SBCS\25폼분할_MDI(다중폼)\bin\Debug\25폼분할_MDI(다중폼).pdb
+D:\C#proj\SBCS\25폼분할_MDI(다중폼)\obj\Debug\_25폼분할_MDI_다중폼_.Form1.resources
+D:\C#proj\SBCS\25폼분할_MDI(다중폼)\obj\Debug\_25폼분할_MDI_다중폼_.Properties.Resources.resources
+D:\C#proj\SBCS\25폼분할_MDI(다중폼)\obj\Debug\25폼분할_MDI(다중폼).csproj.GenerateResource.Cache
+D:\C#proj\SBCS\25폼분할_MDI(다중폼)\obj\Debug\25폼분할_MDI(다중폼).csproj.CoreCompileInputs.cache
+D:\C#proj\SBCS\25폼분할_MDI(다중폼)\obj\Debug\25폼분할_MDI(다중폼).exe
+D:\C#proj\SBCS\25폼분할_MDI(다중폼)\obj\Debug\25폼분할_MDI(다중폼).pdb
+D:\C#proj\SBCS\25폼분할_MDI(다중폼)\obj\Debug\_25폼분할_MDI_다중폼_.Form3.resources

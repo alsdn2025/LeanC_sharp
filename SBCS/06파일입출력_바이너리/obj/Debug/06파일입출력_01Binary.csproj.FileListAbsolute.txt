@@ -1,0 +1,6 @@
+D:\C#proj\SBCS\06파일입출력_바이너리\bin\Debug\06파일입출력_바이너리.exe.config
+D:\C#proj\SBCS\06파일입출력_바이너리\bin\Debug\06파일입출력_바이너리.exe
+D:\C#proj\SBCS\06파일입출력_바이너리\bin\Debug\06파일입출력_바이너리.pdb
+D:\C#proj\SBCS\06파일입출력_바이너리\obj\Debug\06파일입출력_01Binary.csproj.CoreCompileInputs.cache
+D:\C#proj\SBCS\06파일입출력_바이너리\obj\Debug\06파일입출력_바이너리.exe
+D:\C#proj\SBCS\06파일입출력_바이너리\obj\Debug\06파일입출력_바이너리.pdb

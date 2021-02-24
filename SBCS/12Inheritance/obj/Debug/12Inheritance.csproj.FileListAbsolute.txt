@@ -1,0 +1,7 @@
+D:\C#proj\SBCS\12Inheritance\bin\Debug\12Inheritance.exe.config
+D:\C#proj\SBCS\12Inheritance\bin\Debug\12Inheritance.exe
+D:\C#proj\SBCS\12Inheritance\bin\Debug\12Inheritance.pdb
+D:\C#proj\SBCS\12Inheritance\obj\Debug\12Inheritance.csproj.CoreCompileInputs.cache
+D:\C#proj\SBCS\12Inheritance\obj\Debug\12Inheritance.exe
+D:\C#proj\SBCS\12Inheritance\obj\Debug\12Inheritance.pdb
+D:\C#proj\SBCS\12Inheritance\obj\Debug\12Inheritance.csprojAssemblyReference.cache
