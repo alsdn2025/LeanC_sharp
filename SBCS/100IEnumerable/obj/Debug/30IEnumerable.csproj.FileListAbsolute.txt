@@ -1,6 +1,0 @@
-D:\C#proj\SBCS\100IEnumerable\bin\Debug\100IEnumerable.exe.config
-D:\C#proj\SBCS\100IEnumerable\bin\Debug\100IEnumerable.exe
-D:\C#proj\SBCS\100IEnumerable\bin\Debug\100IEnumerable.pdb
-D:\C#proj\SBCS\100IEnumerable\obj\Debug\30IEnumerable.csproj.CoreCompileInputs.cache
-D:\C#proj\SBCS\100IEnumerable\obj\Debug\100IEnumerable.exe
-D:\C#proj\SBCS\100IEnumerable\obj\Debug\100IEnumerable.pdb

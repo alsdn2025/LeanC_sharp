@@ -1,7 +1,0 @@
-D:\C#proj\UnityCS\19If\bin\Debug\19If.exe.config
-D:\C#proj\UnityCS\19If\bin\Debug\19If.exe
-D:\C#proj\UnityCS\19If\bin\Debug\19If.pdb
-D:\C#proj\UnityCS\19If\obj\Debug\19If.csproj.CoreCompileInputs.cache
-D:\C#proj\UnityCS\19If\obj\Debug\19If.exe
-D:\C#proj\UnityCS\19If\obj\Debug\19If.pdb
-D:\C#proj\UnityCS\19If\obj\Debug\19If.csprojResolveAssemblyReference.cache

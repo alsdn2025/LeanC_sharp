@@ -1,9 +1,0 @@
-D:\C#proj\SBCS\19Image_더블버퍼링\bin\Debug\19Image_더블버퍼링.exe.config
-D:\C#proj\SBCS\19Image_더블버퍼링\bin\Debug\19Image_더블버퍼링.exe
-D:\C#proj\SBCS\19Image_더블버퍼링\bin\Debug\19Image_더블버퍼링.pdb
-D:\C#proj\SBCS\19Image_더블버퍼링\obj\Debug\_19Image_더블버퍼링.Form1.resources
-D:\C#proj\SBCS\19Image_더블버퍼링\obj\Debug\_19Image_더블버퍼링.Properties.Resources.resources
-D:\C#proj\SBCS\19Image_더블버퍼링\obj\Debug\19Image_02더블버퍼링.csproj.GenerateResource.Cache
-D:\C#proj\SBCS\19Image_더블버퍼링\obj\Debug\19Image_02더블버퍼링.csproj.CoreCompileInputs.cache
-D:\C#proj\SBCS\19Image_더블버퍼링\obj\Debug\19Image_더블버퍼링.exe
-D:\C#proj\SBCS\19Image_더블버퍼링\obj\Debug\19Image_더블버퍼링.pdb

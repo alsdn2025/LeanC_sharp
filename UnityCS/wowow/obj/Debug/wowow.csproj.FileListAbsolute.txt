@@ -1,6 +1,0 @@
-D:\C#proj\UnityCS\wowow\bin\Debug\wowow.exe.config
-D:\C#proj\UnityCS\wowow\bin\Debug\wowow.exe
-D:\C#proj\UnityCS\wowow\bin\Debug\wowow.pdb
-D:\C#proj\UnityCS\wowow\obj\Debug\wowow.csproj.CoreCompileInputs.cache
-D:\C#proj\UnityCS\wowow\obj\Debug\wowow.exe
-D:\C#proj\UnityCS\wowow\obj\Debug\wowow.pdb

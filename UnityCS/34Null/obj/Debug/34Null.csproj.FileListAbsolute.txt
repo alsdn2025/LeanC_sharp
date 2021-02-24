@@ -1,6 +1,0 @@
-D:\C#proj\UnityCS\34Null\bin\Debug\34Null.exe.config
-D:\C#proj\UnityCS\34Null\bin\Debug\34Null.exe
-D:\C#proj\UnityCS\34Null\bin\Debug\34Null.pdb
-D:\C#proj\UnityCS\34Null\obj\Debug\34Null.csproj.CoreCompileInputs.cache
-D:\C#proj\UnityCS\34Null\obj\Debug\34Null.exe
-D:\C#proj\UnityCS\34Null\obj\Debug\34Null.pdb

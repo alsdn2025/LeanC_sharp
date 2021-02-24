@@ -1,7 +1,0 @@
-D:\C#proj\SBCS\999연습\bin\Debug\999연습.exe.config
-D:\C#proj\SBCS\999연습\bin\Debug\999연습.exe
-D:\C#proj\SBCS\999연습\bin\Debug\999연습.pdb
-D:\C#proj\SBCS\999연습\obj\Debug\999연습.csproj.CoreCompileInputs.cache
-D:\C#proj\SBCS\999연습\obj\Debug\999연습.exe
-D:\C#proj\SBCS\999연습\obj\Debug\999연습.pdb
-D:\C#proj\SBCS\999연습\obj\Debug\999연습.csprojAssemblyReference.cache

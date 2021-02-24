@@ -1,7 +1,0 @@
-D:\C#proj\UnityCS\10Memory00(Func)\bin\Debug\10Memory00(Func).exe.config
-D:\C#proj\UnityCS\10Memory00(Func)\bin\Debug\10Memory00(Func).exe
-D:\C#proj\UnityCS\10Memory00(Func)\bin\Debug\10Memory00(Func).pdb
-D:\C#proj\UnityCS\10Memory00(Func)\obj\Debug\10Memory00(Func).csprojResolveAssemblyReference.cache
-D:\C#proj\UnityCS\10Memory00(Func)\obj\Debug\10Memory00(Func).csproj.CoreCompileInputs.cache
-D:\C#proj\UnityCS\10Memory00(Func)\obj\Debug\10Memory00(Func).exe
-D:\C#proj\UnityCS\10Memory00(Func)\obj\Debug\10Memory00(Func).pdb

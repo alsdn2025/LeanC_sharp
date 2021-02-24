@@ -1,6 +1,0 @@
-D:\C#proj\SBCS\05Array_함수\obj\Debug\05Array_함수.csproj.CoreCompileInputs.cache
-D:\C#proj\SBCS\05Array_함수\bin\Debug\05Array_함수.exe.config
-D:\C#proj\SBCS\05Array_함수\bin\Debug\05Array_함수.exe
-D:\C#proj\SBCS\05Array_함수\bin\Debug\05Array_함수.pdb
-D:\C#proj\SBCS\05Array_함수\obj\Debug\05Array_함수.exe
-D:\C#proj\SBCS\05Array_함수\obj\Debug\05Array_함수.pdb

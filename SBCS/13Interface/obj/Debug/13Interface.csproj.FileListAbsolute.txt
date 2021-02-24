@@ -1,6 +1,0 @@
-D:\C#proj\SBCS\13Interface\obj\Debug\13Interface.csproj.CoreCompileInputs.cache
-D:\C#proj\SBCS\13Interface\bin\Debug\13Interface.exe.config
-D:\C#proj\SBCS\13Interface\bin\Debug\13Interface.exe
-D:\C#proj\SBCS\13Interface\bin\Debug\13Interface.pdb
-D:\C#proj\SBCS\13Interface\obj\Debug\13Interface.exe
-D:\C#proj\SBCS\13Interface\obj\Debug\13Interface.pdb

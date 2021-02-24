@@ -1,7 +1,0 @@
-D:\C#proj\UnityCS\22Enum\bin\Debug\22Enum.exe.config
-D:\C#proj\UnityCS\22Enum\bin\Debug\22Enum.exe
-D:\C#proj\UnityCS\22Enum\bin\Debug\22Enum.pdb
-D:\C#proj\UnityCS\22Enum\obj\Debug\22Enum.csprojResolveAssemblyReference.cache
-D:\C#proj\UnityCS\22Enum\obj\Debug\22Enum.csproj.CoreCompileInputs.cache
-D:\C#proj\UnityCS\22Enum\obj\Debug\22Enum.exe
-D:\C#proj\UnityCS\22Enum\obj\Debug\22Enum.pdb

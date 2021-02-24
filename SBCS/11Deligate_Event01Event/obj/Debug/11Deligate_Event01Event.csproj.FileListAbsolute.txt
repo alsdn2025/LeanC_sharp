@@ -1,6 +1,0 @@
-D:\C#proj\SBCS\11Deligate_Event01Event\bin\Debug\11Deligate_Event01Event.exe.config
-D:\C#proj\SBCS\11Deligate_Event01Event\bin\Debug\11Deligate_Event01Event.exe
-D:\C#proj\SBCS\11Deligate_Event01Event\bin\Debug\11Deligate_Event01Event.pdb
-D:\C#proj\SBCS\11Deligate_Event01Event\obj\Debug\11Deligate_Event01Event.csproj.CoreCompileInputs.cache
-D:\C#proj\SBCS\11Deligate_Event01Event\obj\Debug\11Deligate_Event01Event.exe
-D:\C#proj\SBCS\11Deligate_Event01Event\obj\Debug\11Deligate_Event01Event.pdb

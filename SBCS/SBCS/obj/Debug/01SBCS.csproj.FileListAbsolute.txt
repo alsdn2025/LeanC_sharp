@@ -1,7 +1,0 @@
-D:\C#proj\SBCS\SBCS\bin\Debug\SBCS.exe.config
-D:\C#proj\SBCS\SBCS\bin\Debug\SBCS.exe
-D:\C#proj\SBCS\SBCS\bin\Debug\SBCS.pdb
-D:\C#proj\SBCS\SBCS\obj\Debug\01SBCS.csprojAssemblyReference.cache
-D:\C#proj\SBCS\SBCS\obj\Debug\01SBCS.csproj.CoreCompileInputs.cache
-D:\C#proj\SBCS\SBCS\obj\Debug\SBCS.exe
-D:\C#proj\SBCS\SBCS\obj\Debug\SBCS.pdb

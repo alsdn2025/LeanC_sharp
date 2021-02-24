@@ -1,6 +1,0 @@
-D:\C#proj\UnityCS\24ClassConstructer\obj\Debug\24ClassConstructer.csproj.CoreCompileInputs.cache
-D:\C#proj\UnityCS\24ClassConstructer\bin\Debug\24ClassConstructer.exe.config
-D:\C#proj\UnityCS\24ClassConstructer\bin\Debug\24ClassConstructer.exe
-D:\C#proj\UnityCS\24ClassConstructer\bin\Debug\24ClassConstructer.pdb
-D:\C#proj\UnityCS\24ClassConstructer\obj\Debug\24ClassConstructer.exe
-D:\C#proj\UnityCS\24ClassConstructer\obj\Debug\24ClassConstructer.pdb

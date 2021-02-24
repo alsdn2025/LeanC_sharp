@@ -1,6 +1,0 @@
-D:\C#proj\SBCS\07Project_스마트밥솥01\bin\Debug\07Project_스마트밥솥01.exe.config
-D:\C#proj\SBCS\07Project_스마트밥솥01\bin\Debug\07Project_스마트밥솥01.exe
-D:\C#proj\SBCS\07Project_스마트밥솥01\bin\Debug\07Project_스마트밥솥01.pdb
-D:\C#proj\SBCS\07Project_스마트밥솥01\obj\Debug\07Project_스마트밥솥01.csproj.CoreCompileInputs.cache
-D:\C#proj\SBCS\07Project_스마트밥솥01\obj\Debug\07Project_스마트밥솥01.exe
-D:\C#proj\SBCS\07Project_스마트밥솥01\obj\Debug\07Project_스마트밥솥01.pdb

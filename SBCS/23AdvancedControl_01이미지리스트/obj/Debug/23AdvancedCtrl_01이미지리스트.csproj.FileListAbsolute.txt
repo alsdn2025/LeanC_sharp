@@ -1,9 +1,0 @@
-D:\C#proj\SBCS\23AdvancedControl_01이미지리스트\bin\Debug\23AdvancedControl_01이미지리스트.exe.config
-D:\C#proj\SBCS\23AdvancedControl_01이미지리스트\bin\Debug\23AdvancedControl_01이미지리스트.exe
-D:\C#proj\SBCS\23AdvancedControl_01이미지리스트\bin\Debug\23AdvancedControl_01이미지리스트.pdb
-D:\C#proj\SBCS\23AdvancedControl_01이미지리스트\obj\Debug\_23AdvancedControl_01이미지리스트.Form1.resources
-D:\C#proj\SBCS\23AdvancedControl_01이미지리스트\obj\Debug\_23AdvancedControl_01이미지리스트.Properties.Resources.resources
-D:\C#proj\SBCS\23AdvancedControl_01이미지리스트\obj\Debug\23AdvancedCtrl_01이미지리스트.csproj.GenerateResource.Cache
-D:\C#proj\SBCS\23AdvancedControl_01이미지리스트\obj\Debug\23AdvancedCtrl_01이미지리스트.csproj.CoreCompileInputs.cache
-D:\C#proj\SBCS\23AdvancedControl_01이미지리스트\obj\Debug\23AdvancedControl_01이미지리스트.exe
-D:\C#proj\SBCS\23AdvancedControl_01이미지리스트\obj\Debug\23AdvancedControl_01이미지리스트.pdb

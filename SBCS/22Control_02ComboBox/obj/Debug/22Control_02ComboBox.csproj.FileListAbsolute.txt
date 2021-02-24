@@ -1,9 +1,0 @@
-D:\C#proj\SBCS\22Control_02ComboBox\bin\Debug\22Control_02ComboBox.exe.config
-D:\C#proj\SBCS\22Control_02ComboBox\bin\Debug\22Control_02ComboBox.exe
-D:\C#proj\SBCS\22Control_02ComboBox\bin\Debug\22Control_02ComboBox.pdb
-D:\C#proj\SBCS\22Control_02ComboBox\obj\Debug\_22Control_02ComboBox.Form1.resources
-D:\C#proj\SBCS\22Control_02ComboBox\obj\Debug\_22Control_02ComboBox.Properties.Resources.resources
-D:\C#proj\SBCS\22Control_02ComboBox\obj\Debug\22Control_02ComboBox.csproj.GenerateResource.Cache
-D:\C#proj\SBCS\22Control_02ComboBox\obj\Debug\22Control_02ComboBox.csproj.CoreCompileInputs.cache
-D:\C#proj\SBCS\22Control_02ComboBox\obj\Debug\22Control_02ComboBox.exe
-D:\C#proj\SBCS\22Control_02ComboBox\obj\Debug\22Control_02ComboBox.pdb

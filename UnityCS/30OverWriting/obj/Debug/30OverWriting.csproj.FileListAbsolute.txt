@@ -1,7 +1,0 @@
-D:\C#proj\UnityCS\30OverWriting\bin\Debug\30OverWriting.exe.config
-D:\C#proj\UnityCS\30OverWriting\bin\Debug\30OverWriting.exe
-D:\C#proj\UnityCS\30OverWriting\bin\Debug\30OverWriting.pdb
-D:\C#proj\UnityCS\30OverWriting\obj\Debug\30OverWriting.csprojResolveAssemblyReference.cache
-D:\C#proj\UnityCS\30OverWriting\obj\Debug\30OverWriting.csproj.CoreCompileInputs.cache
-D:\C#proj\UnityCS\30OverWriting\obj\Debug\30OverWriting.exe
-D:\C#proj\UnityCS\30OverWriting\obj\Debug\30OverWriting.pdb

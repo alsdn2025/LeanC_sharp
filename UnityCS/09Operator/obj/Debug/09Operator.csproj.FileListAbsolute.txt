@@ -1,7 +1,0 @@
-D:\C#proj\UnityCS\09Operator\bin\Debug\09Operator.exe.config
-D:\C#proj\UnityCS\09Operator\bin\Debug\09Operator.exe
-D:\C#proj\UnityCS\09Operator\bin\Debug\09Operator.pdb
-D:\C#proj\UnityCS\09Operator\obj\Debug\09Operator.csprojResolveAssemblyReference.cache
-D:\C#proj\UnityCS\09Operator\obj\Debug\09Operator.csproj.CoreCompileInputs.cache
-D:\C#proj\UnityCS\09Operator\obj\Debug\09Operator.exe
-D:\C#proj\UnityCS\09Operator\obj\Debug\09Operator.pdb

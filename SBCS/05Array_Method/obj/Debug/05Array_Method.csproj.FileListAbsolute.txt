@@ -1,6 +1,0 @@
-D:\C#proj\SBCS\05Array_Method\bin\Debug\05Array_Method.exe.config
-D:\C#proj\SBCS\05Array_Method\bin\Debug\05Array_Method.exe
-D:\C#proj\SBCS\05Array_Method\bin\Debug\05Array_Method.pdb
-D:\C#proj\SBCS\05Array_Method\obj\Debug\05Array_Method.csproj.CoreCompileInputs.cache
-D:\C#proj\SBCS\05Array_Method\obj\Debug\05Array_Method.exe
-D:\C#proj\SBCS\05Array_Method\obj\Debug\05Array_Method.pdb

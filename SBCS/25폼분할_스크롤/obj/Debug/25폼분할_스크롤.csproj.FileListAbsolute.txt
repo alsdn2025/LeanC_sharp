@@ -1,9 +1,0 @@
-D:\C#proj\SBCS\25폼분할_스크롤\bin\Debug\25폼분할_스크롤.exe.config
-D:\C#proj\SBCS\25폼분할_스크롤\bin\Debug\25폼분할_스크롤.exe
-D:\C#proj\SBCS\25폼분할_스크롤\bin\Debug\25폼분할_스크롤.pdb
-D:\C#proj\SBCS\25폼분할_스크롤\obj\Debug\_25폼분할_스크롤.Form1.resources
-D:\C#proj\SBCS\25폼분할_스크롤\obj\Debug\_25폼분할_스크롤.Properties.Resources.resources
-D:\C#proj\SBCS\25폼분할_스크롤\obj\Debug\25폼분할_스크롤.csproj.GenerateResource.Cache
-D:\C#proj\SBCS\25폼분할_스크롤\obj\Debug\25폼분할_스크롤.csproj.CoreCompileInputs.cache
-D:\C#proj\SBCS\25폼분할_스크롤\obj\Debug\25폼분할_스크롤.exe
-D:\C#proj\SBCS\25폼분할_스크롤\obj\Debug\25폼분할_스크롤.pdb

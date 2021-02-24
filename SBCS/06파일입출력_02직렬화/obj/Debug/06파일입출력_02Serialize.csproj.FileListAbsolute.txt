@@ -1,6 +1,0 @@
-D:\C#proj\SBCS\06파일입출력_02직렬화\bin\Debug\06파일입출력_02직렬화.exe.config
-D:\C#proj\SBCS\06파일입출력_02직렬화\bin\Debug\06파일입출력_02직렬화.exe
-D:\C#proj\SBCS\06파일입출력_02직렬화\bin\Debug\06파일입출력_02직렬화.pdb
-D:\C#proj\SBCS\06파일입출력_02직렬화\obj\Debug\06파일입출력_02Serialize.csproj.CoreCompileInputs.cache
-D:\C#proj\SBCS\06파일입출력_02직렬화\obj\Debug\06파일입출력_02직렬화.exe
-D:\C#proj\SBCS\06파일입출력_02직렬화\obj\Debug\06파일입출력_02직렬화.pdb

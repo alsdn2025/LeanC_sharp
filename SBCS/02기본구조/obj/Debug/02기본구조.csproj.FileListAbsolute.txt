@@ -1,7 +1,0 @@
-D:\C#proj\SBCS\02기본구조\bin\Debug\02기본구조.exe.config
-D:\C#proj\SBCS\02기본구조\bin\Debug\02기본구조.exe
-D:\C#proj\SBCS\02기본구조\bin\Debug\02기본구조.pdb
-D:\C#proj\SBCS\02기본구조\obj\Debug\02기본구조.csproj.CoreCompileInputs.cache
-D:\C#proj\SBCS\02기본구조\obj\Debug\02기본구조.exe
-D:\C#proj\SBCS\02기본구조\obj\Debug\02기본구조.pdb
-D:\C#proj\SBCS\02기본구조\obj\Debug\02기본구조.csprojAssemblyReference.cache

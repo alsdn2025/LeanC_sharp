@@ -1,9 +1,0 @@
-D:\C#proj\SBCS\23AdvancedCtrl_02탭컨트롤\bin\Debug\23AdvancedCtrl_02탭컨트롤.exe.config
-D:\C#proj\SBCS\23AdvancedCtrl_02탭컨트롤\bin\Debug\23AdvancedCtrl_02탭컨트롤.exe
-D:\C#proj\SBCS\23AdvancedCtrl_02탭컨트롤\bin\Debug\23AdvancedCtrl_02탭컨트롤.pdb
-D:\C#proj\SBCS\23AdvancedCtrl_02탭컨트롤\obj\Debug\_23AdvancedCtrl_02탭컨트롤.Form1.resources
-D:\C#proj\SBCS\23AdvancedCtrl_02탭컨트롤\obj\Debug\_23AdvancedCtrl_02탭컨트롤.Properties.Resources.resources
-D:\C#proj\SBCS\23AdvancedCtrl_02탭컨트롤\obj\Debug\23AdvancedCtrl_02탭컨트롤.csproj.GenerateResource.Cache
-D:\C#proj\SBCS\23AdvancedCtrl_02탭컨트롤\obj\Debug\23AdvancedCtrl_02탭컨트롤.csproj.CoreCompileInputs.cache
-D:\C#proj\SBCS\23AdvancedCtrl_02탭컨트롤\obj\Debug\23AdvancedCtrl_02탭컨트롤.exe
-D:\C#proj\SBCS\23AdvancedCtrl_02탭컨트롤\obj\Debug\23AdvancedCtrl_02탭컨트롤.pdb

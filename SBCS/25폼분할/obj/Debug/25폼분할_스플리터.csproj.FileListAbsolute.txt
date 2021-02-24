@@ -1,9 +1,0 @@
-D:\C#proj\SBCS\25폼분할\bin\Debug\25폼분할.exe.config
-D:\C#proj\SBCS\25폼분할\bin\Debug\25폼분할.exe
-D:\C#proj\SBCS\25폼분할\bin\Debug\25폼분할.pdb
-D:\C#proj\SBCS\25폼분할\obj\Debug\_25폼분할.Form1.resources
-D:\C#proj\SBCS\25폼분할\obj\Debug\_25폼분할.Properties.Resources.resources
-D:\C#proj\SBCS\25폼분할\obj\Debug\25폼분할_스플리터.csproj.GenerateResource.Cache
-D:\C#proj\SBCS\25폼분할\obj\Debug\25폼분할_스플리터.csproj.CoreCompileInputs.cache
-D:\C#proj\SBCS\25폼분할\obj\Debug\25폼분할.exe
-D:\C#proj\SBCS\25폼분할\obj\Debug\25폼분할.pdb

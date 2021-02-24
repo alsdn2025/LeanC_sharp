@@ -1,7 +1,0 @@
-D:\C#proj\SBCS\out_in_ref\obj\Debug\out_in_ref.csprojAssemblyReference.cache
-D:\C#proj\SBCS\out_in_ref\obj\Debug\out_in_ref.csproj.CoreCompileInputs.cache
-D:\C#proj\SBCS\out_in_ref\bin\Debug\out_in_ref.exe.config
-D:\C#proj\SBCS\out_in_ref\bin\Debug\out_in_ref.exe
-D:\C#proj\SBCS\out_in_ref\bin\Debug\out_in_ref.pdb
-D:\C#proj\SBCS\out_in_ref\obj\Debug\out_in_ref.exe
-D:\C#proj\SBCS\out_in_ref\obj\Debug\out_in_ref.pdb

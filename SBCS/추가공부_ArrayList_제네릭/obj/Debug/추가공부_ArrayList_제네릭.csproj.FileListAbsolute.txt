@@ -1,6 +1,0 @@
-D:\C#proj\SBCS\추가공부_ArrayList_제네릭\bin\Debug\추가공부_ArrayList_제네릭.exe.config
-D:\C#proj\SBCS\추가공부_ArrayList_제네릭\bin\Debug\추가공부_ArrayList_제네릭.exe
-D:\C#proj\SBCS\추가공부_ArrayList_제네릭\bin\Debug\추가공부_ArrayList_제네릭.pdb
-D:\C#proj\SBCS\추가공부_ArrayList_제네릭\obj\Debug\추가공부_ArrayList_제네릭.csproj.CoreCompileInputs.cache
-D:\C#proj\SBCS\추가공부_ArrayList_제네릭\obj\Debug\추가공부_ArrayList_제네릭.exe
-D:\C#proj\SBCS\추가공부_ArrayList_제네릭\obj\Debug\추가공부_ArrayList_제네릭.pdb

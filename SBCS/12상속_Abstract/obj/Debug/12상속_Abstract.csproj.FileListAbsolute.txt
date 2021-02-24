@@ -1,6 +1,0 @@
-D:\C#proj\SBCS\12상속_Abstract\bin\Debug\12상속_Abstract.exe.config
-D:\C#proj\SBCS\12상속_Abstract\bin\Debug\12상속_Abstract.exe
-D:\C#proj\SBCS\12상속_Abstract\bin\Debug\12상속_Abstract.pdb
-D:\C#proj\SBCS\12상속_Abstract\obj\Debug\12상속_Abstract.csproj.CoreCompileInputs.cache
-D:\C#proj\SBCS\12상속_Abstract\obj\Debug\12상속_Abstract.exe
-D:\C#proj\SBCS\12상속_Abstract\obj\Debug\12상속_Abstract.pdb

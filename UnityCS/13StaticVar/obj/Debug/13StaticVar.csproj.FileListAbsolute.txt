@@ -1,7 +1,0 @@
-D:\C#proj\UnityCS\13StaticVar\bin\Debug\13StaticVar.exe.config
-D:\C#proj\UnityCS\13StaticVar\bin\Debug\13StaticVar.exe
-D:\C#proj\UnityCS\13StaticVar\bin\Debug\13StaticVar.pdb
-D:\C#proj\UnityCS\13StaticVar\obj\Debug\13StaticVar.csprojResolveAssemblyReference.cache
-D:\C#proj\UnityCS\13StaticVar\obj\Debug\13StaticVar.csproj.CoreCompileInputs.cache
-D:\C#proj\UnityCS\13StaticVar\obj\Debug\13StaticVar.exe
-D:\C#proj\UnityCS\13StaticVar\obj\Debug\13StaticVar.pdb

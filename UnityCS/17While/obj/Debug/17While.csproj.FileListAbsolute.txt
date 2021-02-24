@@ -1,7 +1,0 @@
-D:\C#proj\UnityCS\17While\bin\Debug\17While.exe.config
-D:\C#proj\UnityCS\17While\bin\Debug\17While.exe
-D:\C#proj\UnityCS\17While\bin\Debug\17While.pdb
-D:\C#proj\UnityCS\17While\obj\Debug\17While.csprojResolveAssemblyReference.cache
-D:\C#proj\UnityCS\17While\obj\Debug\17While.csproj.CoreCompileInputs.cache
-D:\C#proj\UnityCS\17While\obj\Debug\17While.exe
-D:\C#proj\UnityCS\17While\obj\Debug\17While.pdb

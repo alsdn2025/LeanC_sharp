@@ -1,6 +1,0 @@
-D:\C#proj\UnityCS\11Memory00(Value)\bin\Debug\11Memory00(Value).exe.config
-D:\C#proj\UnityCS\11Memory00(Value)\bin\Debug\11Memory00(Value).exe
-D:\C#proj\UnityCS\11Memory00(Value)\bin\Debug\11Memory00(Value).pdb
-D:\C#proj\UnityCS\11Memory00(Value)\obj\Debug\11Memory00(Value).csproj.CoreCompileInputs.cache
-D:\C#proj\UnityCS\11Memory00(Value)\obj\Debug\11Memory00(Value).exe
-D:\C#proj\UnityCS\11Memory00(Value)\obj\Debug\11Memory00(Value).pdb

@@ -1,6 +1,0 @@
-D:\C#proj\UnityCS\07ClasssAccess\bin\Debug\07ClasssAccess.exe.config
-D:\C#proj\UnityCS\07ClasssAccess\bin\Debug\07ClasssAccess.exe
-D:\C#proj\UnityCS\07ClasssAccess\bin\Debug\07ClasssAccess.pdb
-D:\C#proj\UnityCS\07ClasssAccess\obj\Debug\07ClasssAccess.csproj.CoreCompileInputs.cache
-D:\C#proj\UnityCS\07ClasssAccess\obj\Debug\07ClasssAccess.exe
-D:\C#proj\UnityCS\07ClasssAccess\obj\Debug\07ClasssAccess.pdb

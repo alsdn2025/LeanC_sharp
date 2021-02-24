@@ -1,7 +1,0 @@
-D:\C#proj\UnityCS\37Generic00\bin\Debug\37Generic00.exe.config
-D:\C#proj\UnityCS\37Generic00\bin\Debug\37Generic00.exe
-D:\C#proj\UnityCS\37Generic00\bin\Debug\37Generic00.pdb
-D:\C#proj\UnityCS\37Generic00\obj\Debug\37Generic00.csprojResolveAssemblyReference.cache
-D:\C#proj\UnityCS\37Generic00\obj\Debug\37Generic00.csproj.CoreCompileInputs.cache
-D:\C#proj\UnityCS\37Generic00\obj\Debug\37Generic00.exe
-D:\C#proj\UnityCS\37Generic00\obj\Debug\37Generic00.pdb

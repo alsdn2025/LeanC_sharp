@@ -1,6 +1,0 @@
-D:\C#proj\UnityCS\TextRpg001\bin\Debug\TextRpg001.exe.config
-D:\C#proj\UnityCS\TextRpg001\bin\Debug\TextRpg001.exe
-D:\C#proj\UnityCS\TextRpg001\bin\Debug\TextRpg001.pdb
-D:\C#proj\UnityCS\TextRpg001\obj\Debug\TextRpg001.csproj.CoreCompileInputs.cache
-D:\C#proj\UnityCS\TextRpg001\obj\Debug\TextRpg001.exe
-D:\C#proj\UnityCS\TextRpg001\obj\Debug\TextRpg001.pdb

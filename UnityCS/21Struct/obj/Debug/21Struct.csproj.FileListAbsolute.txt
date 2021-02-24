@@ -1,6 +1,0 @@
-D:\C#proj\UnityCS\21Struct\bin\Debug\21Struct.exe.config
-D:\C#proj\UnityCS\21Struct\bin\Debug\21Struct.exe
-D:\C#proj\UnityCS\21Struct\bin\Debug\21Struct.pdb
-D:\C#proj\UnityCS\21Struct\obj\Debug\21Struct.csproj.CoreCompileInputs.cache
-D:\C#proj\UnityCS\21Struct\obj\Debug\21Struct.exe
-D:\C#proj\UnityCS\21Struct\obj\Debug\21Struct.pdb

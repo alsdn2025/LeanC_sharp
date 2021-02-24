@@ -1,9 +1,0 @@
-D:\C#proj\SBCS\17Mause사각형\bin\Debug\17Mause사각형.exe.config
-D:\C#proj\SBCS\17Mause사각형\bin\Debug\17Mause사각형.exe
-D:\C#proj\SBCS\17Mause사각형\bin\Debug\17Mause사각형.pdb
-D:\C#proj\SBCS\17Mause사각형\obj\Debug\_17Mause사각형.Form1.resources
-D:\C#proj\SBCS\17Mause사각형\obj\Debug\_17Mause사각형.Properties.Resources.resources
-D:\C#proj\SBCS\17Mause사각형\obj\Debug\17Mouse02사각형드래그.csproj.GenerateResource.Cache
-D:\C#proj\SBCS\17Mause사각형\obj\Debug\17Mouse02사각형드래그.csproj.CoreCompileInputs.cache
-D:\C#proj\SBCS\17Mause사각형\obj\Debug\17Mause사각형.exe
-D:\C#proj\SBCS\17Mause사각형\obj\Debug\17Mause사각형.pdb

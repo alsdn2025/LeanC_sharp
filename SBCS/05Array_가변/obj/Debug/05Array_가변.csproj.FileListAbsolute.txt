@@ -1,6 +1,0 @@
-D:\C#proj\SBCS\05Array_가변\bin\Debug\05Array_가변.exe.config
-D:\C#proj\SBCS\05Array_가변\bin\Debug\05Array_가변.exe
-D:\C#proj\SBCS\05Array_가변\bin\Debug\05Array_가변.pdb
-D:\C#proj\SBCS\05Array_가변\obj\Debug\05Array_가변.csproj.CoreCompileInputs.cache
-D:\C#proj\SBCS\05Array_가변\obj\Debug\05Array_가변.exe
-D:\C#proj\SBCS\05Array_가변\obj\Debug\05Array_가변.pdb
